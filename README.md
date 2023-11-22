@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, My name is Ayush Vishwakarma</h1>
 <div align="center"> <img src="https://media.licdn.com/dms/image/D4D16AQHofU7EM7AMfw/profile-displaybackgroundimage-shrink_350_1400/0/1696099200724?e=1701907200&v=beta&t=WFBEfLNXlm07ALVKFc4Nl-Fp7EVyS4Mqf_4uwFgY17c"> </div>
 <h2 align="left">Data analyst | MySQL | Power BI | Python</h2>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/QA0uMQiuA595sh0xBi/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushvishwakarma25&label=Profile%20views&color=0e75b6&style=flat" alt="ayushvishwakarma25" /> </p>
