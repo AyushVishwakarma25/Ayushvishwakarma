@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/sharmaayush25" target="blank"><img src="https://img.shields.io/twitter/follow/sharmaayush25?logo=twitter&style=for-the-badge" alt="sharmaayush25" /></a> </p>
 
-- 👯 I’m looking to collaborate on **any end to end Data science project.**
+- 👯 I’m looking to collaborate on **any end-to-end Data analysis project.**
 
 - 👨‍💻 All of my projects are available at [https://analyticsbyayush.outperl.com/](https://analyticsbyayush.outperl.com/)
 
-- 📝 I regularly write articles on [https://analyticsbyayush.outperl.com/blog/](https://analyticsbyayush.outperl.com/blog/)
+- 📝 I  write articles on [https://analyticsbyayush.outperl.com/blog/](https://analyticsbyayush.outperl.com/blog/)
 
 - 💬 Ask me about anything related to **Data analysis | Freelancing | Website development | Digital Marketing**
 
