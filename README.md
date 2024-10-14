@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, My name is Ayush Vishwakarma</h1>
 <div align="center"> <img src="https://media.licdn.com/dms/image/D4D16AQHofU7EM7AMfw/profile-displaybackgroundimage-shrink_350_1400/0/1696099200724?e=1701907200&v=beta&t=WFBEfLNXlm07ALVKFc4Nl-Fp7EVyS4Mqf_4uwFgY17c"> </div>
-<h2 align="left">Data analyst | MySQL | Power BI | Python</h2>
+<h2 align="left">Data analyst | MySQL | Power BI | Python | Marketing</h2>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/QA0uMQiuA595sh0xBi/giphy.gif">
 
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/sharmaayush25" target="blank"><img src="https://img.shields.io/twitter/follow/sharmaayush25?logo=twitter&style=for-the-badge" alt="sharmaayush25" /></a> </p>
 
-- 👯 I’m looking to collaborate on **any end-to-end Data analysis project.**
+- 👯 I’m looking to collaborate on **any end-to-end freelance project.**
 
 - 👨‍💻 All of my projects are available at [https://analyticsbyayush.outperl.com/](https://analyticsbyayush.outperl.com/)
 
